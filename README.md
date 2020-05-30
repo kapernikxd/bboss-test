@@ -8,3 +8,8 @@
 5. БЭМ
 
 
+------
+[Ссылка на проект](https://kapernikxd.github.io/bboss-test/dist/)
+
+
+
